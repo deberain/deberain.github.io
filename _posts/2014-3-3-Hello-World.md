@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Year Project - Build A Next Word Predictor
+title: 'Week 03: Final Year Project - Build A Next Word Predictor'
 published: true
 ---
 ## Overview

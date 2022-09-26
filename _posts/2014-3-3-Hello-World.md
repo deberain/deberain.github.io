@@ -1,11 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Final Year Project - Build A Next Word Predictor
 published: true
 ---
-
-# Final Year Project - Build A Next Word Predictor
-
 ## Overview
 
 Welcome, this will be my blog detailing my progress on researching and building a next word predictor as part of my final year project for UL.
@@ -19,5 +16,3 @@ In this coming week I plan to research how Next Word Predictors function. I'll b
 If time permits later in the year, I had an idea to build next word predictors using different techniques and examining the difference in accuracy, if any.
 
 That'll be it for this week. I imagine I'll post an update again next Sunday.
-
-

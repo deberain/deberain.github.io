@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+My name is Jonathan Falvey. I am a 4th year undergrad student at University of Limerick, currently studying Computer Systems. As part of our fourth and final year in the course, we must undertake a Final Year Project. The topic I chose for my FYP was "Build a Next Word Predictor".
 
-### More Information
+I've created this blog to log my progress in researching and developing my next word predictor. I expect to update this blog weekly, up until the completion of my FYP of course.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[FalveyJ7@gmail.com](mailto:FalveyJ7@gmail.com)

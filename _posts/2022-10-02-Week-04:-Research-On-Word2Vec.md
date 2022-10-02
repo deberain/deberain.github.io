@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: 'Week 04: Research On Word2Vec'
 ---
 ---
 ## Summary

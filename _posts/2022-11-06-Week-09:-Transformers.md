@@ -14,3 +14,4 @@ I resumed research again at the start of this week and had planned to continue l
 I initially learned about Transformers while researching LSTM. i came across the video ["LSTM is dead. Long Live Transformers!"](https://www.youtube.com/watch?v=S27pHKBEp30) where Leo Dirac gives a presentation on the progression from simple Bag of Words models to RNNs to LSTM and now Transformers. He makes reference to the orginal paper describing Transformers: ["Attention Is All You Need"](https://arxiv.org/pdf/1706.03762.pdf) by Vaswani et al. The paper is primarily concerned with the task of machine translation, meaning there is an encoder-decoder architecture involved.
 
 ![](https://i.imgur.com/4lWevrl.png)
+The Transformer model architecture, by the authors of "Attention Is All You need"
